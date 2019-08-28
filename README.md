@@ -23,3 +23,4 @@ Kör
     sudo mysql -u root
 
 
+grant all privileges on *.* to 'whitzey'@'localhost' identified by 'password';
