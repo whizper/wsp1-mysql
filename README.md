@@ -22,5 +22,4 @@ Starta services / tjänster i Windows. Stoppa branchcache och starta om apache2.
 Kör 
     sudo mysql -u root
 
-
-grant all privileges on *.* to 'whitzey'@'localhost' identified by 'password';
+    grant all privileges on *.* to 'username'@'localhost' identified by 'password';
